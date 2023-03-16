@@ -6,3 +6,6 @@ fun main() {
     println("Your name is $myName!")
 }
 //doesn't work, figure out how to work it
+
+// var = you can reassign
+// val = you can not reassign
